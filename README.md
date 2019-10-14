@@ -1,5 +1,7 @@
 # Broctagen front end dev test on Vue framework
 
+[Click here to view demo site.](https://edwinchen85.github.io/broctagen-vue/)
+
 ### Pages:
 
 1. Login - Landing Page
